@@ -469,7 +469,6 @@ class _FlutterCarouselState extends State<FlutterCarousel>
                 _getEnlargeWrapper(
                   child,
                   height: distortionValue * dimen,
-                  width: distortionValue * dimen,
                   scale: distortionValue,
                 ),
               );
